@@ -1,6 +1,12 @@
-# Aplicación de Clima
+# Aplicación de Pokemon
 
 ## Empezando
+
+0. Instala los paquetes necesarios con este código:
+
+```bash
+  npm i core-node-pokemon
+```
 
 1. Ejecuta:
 
