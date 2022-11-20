@@ -2,6 +2,18 @@
 
 ## Empezando
 
+1. Instala GraphicsMagick:
+   
+   Ejecuta en consola los siguientes comandos:
+   
+   ```
+      sudo apt update
+   ```
+   
+   ```
+      sudo apt install graphicsmagick
+   ```
+
 0. Instala los paquetes necesarios con este código:
 
 ```bash
